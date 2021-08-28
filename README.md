@@ -3,11 +3,11 @@
 </br>
 
  
- <a href="https://github.com/davidsonmarra">
+ <!-- <a href="https://github.com/davidsonmarra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsonmarra&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
- </a>
+ </a> -->
  <a href="https://github.com/davidsonmarra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonmarra&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonmarra&layout=compact&langs_count=7&theme=material-palenight"/>
  </a>
  
 </br>
