@@ -31,21 +31,21 @@
 [**Compasso - Programador Trainee**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  ago. 2021 • o momento\
 Tecnologias: `Mobile`, `Front End`, `React`\
-<br>
+<br><br>
 
 [<img align="left" height="100px" width="100px" alt="Compsso" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1642032000&v=beta&t=wdo7lmpUJsnqZ7JYhfYyTEWtmLJgUOq42irfB9xDLvk"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
 [**Compasso - Estágio Front-End**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  mai. 2021 • ago. 2021\
 Tecnologias: `Front End`, `ReactJS`, `Styled-Components`, `Redux`, `Axios`\
-<br>
+<br><br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEwUOftMSJyXg/company-logo_200_200/0/1628795170867?e=1642032000&v=beta&t=sKbw12K8ArvVKnNp2ASwJZQ83PzmwU8fiT3QJJxYVtY"/>](https://www.linkedin.com/company/solarview/)
 
 [**Solar View - Estágio**](https://www.linkedin.com/company/solarview/) \
  nov. 2019 • mar. 2020\
 Área de atuação: `Técnico de Eletrônica`, `Produção`\
-<br>
+<br><br>
   
 ##
   
