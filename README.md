@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm Davidson Marra</h1>
-<h3 align="left">I'm a computer engineering student and I work as a front-end developer. 💻</h3>
+<blockquote align="left">I'm a computer engineering student and I work as a front-end developer. 💻</blockquote>
 </br>
 
  
@@ -30,21 +30,24 @@
 
 [**Compasso - Programador Trainee**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  ago. 2021 • o momento\
-Tecnologias: `Mobile`, `Front End`, `React`\
+ Área de atuação: `Mobile`, `Front End`\
+ Tecnologias: `React Native`, `ReactJS`, `Node`\
 <br><br>
 
 [<img align="left" height="100px" width="100px" alt="Compsso" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1642032000&v=beta&t=wdo7lmpUJsnqZ7JYhfYyTEWtmLJgUOq42irfB9xDLvk"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
 [**Compasso - Estágio Front-End**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  mai. 2021 • ago. 2021\
-Tecnologias: `Front End`, `ReactJS`, `Styled-Components`, `Redux`, `Axios`\
+ Área de atuação: `Front End`\
+ Tecnologias: `ReactJS`, `Styled-Components`, `Redux`, `Axios`\
 <br><br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEwUOftMSJyXg/company-logo_200_200/0/1628795170867?e=1642032000&v=beta&t=sKbw12K8ArvVKnNp2ASwJZQ83PzmwU8fiT3QJJxYVtY"/>](https://www.linkedin.com/company/solarview/)
 
 [**Solar View - Estágio**](https://www.linkedin.com/company/solarview/) \
  nov. 2019 • mar. 2020\
-Área de atuação: `Técnico de Eletrônica`, `Produção`\
+ Área de atuação: `Técnico de Eletrônica`, `Área de Produção`\
+ Tecnologias: `Eletrônica`, `Banco de Dados`, `Soldas`\
 <br><br>
   
 ##
