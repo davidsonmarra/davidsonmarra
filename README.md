@@ -1,26 +1,32 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm Davidson Marra</h1>
-<blockquote align="left">I'm a computer engineering student and I work as a front-end developer. 💻</blockquote>
+<blockquote align="left">I'm a computer engineering student and I work as a mobile and front-end developer. 💻</blockquote>
 </br>
 
  
  <!-- <a href="https://github.com/davidsonmarra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsonmarra&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
  </a> -->
- <a href="https://github.com/davidsonmarra">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonmarra&layout=compact&langs_count=7&theme=material-palenight"/>
- </a>
  
-</br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Davidson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davidson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Davidson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davidson-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Davidson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Davidson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Davidson-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Davidson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div> 
+ <!-- <a href="https://github.com/davidsonmarra">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonmarra&layout=compact&langs_count=7&theme=material-palenight"/>
+ </a> -->
+ <div align="left">
+  <img align="right" src="https://user-images.githubusercontent.com/80720221/137231756-78640113-41f6-44bf-84a5-53790ecfc0d9.png">
+ </div>
+ <div align="left">
+  <p align="left">
+    <strong>Mobile:</strong> React Native
+  </p>
+  <p align="left">
+    <strong>Front End:</strong> HTML, CSS, JS, SASS and ReactJS
+  </p>
+  <p align="left">
+    <strong>Back End:</strong> NodeJS
+  </p>
+  <p align="left">
+    <strong>Version Control:</strong> Git, GitHub, Bitbucket
+  </p>
+ </div>
 
 ##
 
@@ -47,8 +53,7 @@
 [**Solar View - Estágio**](https://www.linkedin.com/company/solarview/) \
  nov. 2019 • mar. 2020\
  Área de atuação: `Técnico de Eletrônica`, `Área de Produção`\
- Tecnologias: `Eletrônica`, `Banco de Dados`, `Soldas`\
-<br><br>
+ Tecnologias: `Eletrônica`, `Banco de Dados`, `Soldas`
   
 ##
   
