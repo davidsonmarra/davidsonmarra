@@ -11,7 +11,7 @@
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonmarra&layout=compact&langs_count=7&theme=material-palenight"/>
  </a> -->
  <div align="left">
-  <img align="right" src="https://user-images.githubusercontent.com/80720221/137231756-78640113-41f6-44bf-84a5-53790ecfc0d9.png">
+  <img align="right" width="400px" src="https://user-images.githubusercontent.com/80720221/137231756-78640113-41f6-44bf-84a5-53790ecfc0d9.png">
  </div>
  <div align="left">
   <p align="left">
@@ -38,7 +38,7 @@
  aug. 2021 • the moment\
  Occupation Area: `Mobile`, `Front End`\
  Technologies: `React Native`, `ReactJS`, `Node`\
-<br><br>
+<br>
 
 [<img align="left" height="100px" width="100px" alt="Compsso" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1642032000&v=beta&t=wdo7lmpUJsnqZ7JYhfYyTEWtmLJgUOq42irfB9xDLvk"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
@@ -46,7 +46,7 @@
  may 2021 • aug. 2021\
  Occupation Area: `Front End`\
  Technologies: `ReactJS`, `Styled-Components`, `Redux`, `Axios`\
-<br><br>
+<br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEwUOftMSJyXg/company-logo_200_200/0/1628795170867?e=1642032000&v=beta&t=sKbw12K8ArvVKnNp2ASwJZQ83PzmwU8fiT3QJJxYVtY"/>](https://www.linkedin.com/company/solarview/)
 
