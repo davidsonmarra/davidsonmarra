@@ -2,7 +2,6 @@
 <blockquote align="left">I'm a computer engineering student and I work as a mobile and front-end developer. ⌨🖱</blockquote>
 </br>
 
- 
  <!-- <a href="https://github.com/davidsonmarra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsonmarra&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
  </a> -->
@@ -11,7 +10,8 @@
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonmarra&layout=compact&langs_count=7&theme=material-palenight"/>
  </a> -->
  <div align="left">
-  <img align="right" width="400px" src="https://user-images.githubusercontent.com/80720221/137231756-78640113-41f6-44bf-84a5-53790ecfc0d9.png">
+  <!-- <img align="right" width="400px" src="https://user-images.githubusercontent.com/80720221/137231756-78640113-41f6-44bf-84a5-53790ecfc0d9.png"> -->
+ <img align="right" width="350px" src="https://user-images.githubusercontent.com/80720221/141346619-46e42cb7-adb7-4168-a67c-cda95a75325a.gif">
  </div>
  <div align="left">
   <p align="left">
