@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm Davidson Marra</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" alt="GIF Hi" width="30px">, I'm Davidson Marra</h1>
 <blockquote align="left">I'm a computer engineering student and I work as a mobile and front-end developer. ⌨🖱</blockquote>
 </br>
 
@@ -11,7 +11,7 @@
  </a> -->
  <div align="left">
   <!-- <img align="right" width="400px" src="https://user-images.githubusercontent.com/80720221/137231756-78640113-41f6-44bf-84a5-53790ecfc0d9.png"> -->
- <img align="right" width="350px" src="https://user-images.githubusercontent.com/80720221/141346619-46e42cb7-adb7-4168-a67c-cda95a75325a.gif">
+ <img align="right" width="350px" src="https://user-images.githubusercontent.com/80720221/141987372-7132c8f3-a86a-4de1-81c2-6ca2f64fbc1e.gif">
  </div>
  <div align="left">
   <p align="left">
