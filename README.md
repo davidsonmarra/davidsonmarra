@@ -32,7 +32,7 @@
 
 ### Work Experiences
 
-[<img align="left" height="100px" width="100px" alt="Compsso" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1642032000&v=beta&t=wdo7lmpUJsnqZ7JYhfYyTEWtmLJgUOq42irfB9xDLvk"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
+[<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
 [**Compasso UOL - Dev Mobile Trainee**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  aug. 2021 • the moment\
@@ -40,7 +40,7 @@
  Technologies: `React Native`, `ReactJS`, `Node`\
 <br>
 
-[<img align="left" height="100px" width="100px" alt="Compsso" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHCtAMn01UMGQ/company-logo_200_200/0/1621354097823?e=1642032000&v=beta&t=wdo7lmpUJsnqZ7JYhfYyTEWtmLJgUOq42irfB9xDLvk"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
+[<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
 [**Compasso - Intern Front-End**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  may 2021 • aug. 2021\
@@ -48,7 +48,7 @@
  Technologies: `ReactJS`, `Styled-Components`, `Redux`, `Axios`\
 <br>
 
-[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEwUOftMSJyXg/company-logo_200_200/0/1628795170867?e=1642032000&v=beta&t=sKbw12K8ArvVKnNp2ASwJZQ83PzmwU8fiT3QJJxYVtY"/>](https://www.linkedin.com/company/solarview/)
+[<img align="left" height="100px" width="100px" alt="ContWeb" src="https://user-images.githubusercontent.com/80720221/154293055-2bfe67bc-942a-4be9-a001-8ac8849990e7.jpg"/>](https://www.linkedin.com/company/solarview/)
 
 [**Solar View - Intern**](https://www.linkedin.com/company/solarview/) \
  nov. 2019 • mar. 2020\
