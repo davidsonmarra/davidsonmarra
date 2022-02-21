@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" alt="GIF Hi" width="30px">, I'm Davidson Marra</h1>
+<h1 align="left">Hi 👋, I'm Davidson Marra</h1>
 <blockquote align="left">I'm a computer engineering student and I work as a mobile and front-end developer. ⌨🖱</blockquote>
 </br>
 
