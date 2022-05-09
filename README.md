@@ -34,6 +34,14 @@
 
 [<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
+[**Compasso UOL - Dev Mobile I**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
+ aug. 2021 • the moment\
+ Occupation Area: `Mobile`, `Front End`\
+ Technologies: `React Native`, `ReactJS`, `Node`\
+<br>
+
+[<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
+
 [**Compasso UOL - Dev Mobile Trainee**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
  aug. 2021 • the moment\
  Occupation Area: `Mobile`, `Front End`\
