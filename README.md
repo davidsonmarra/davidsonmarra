@@ -15,13 +15,13 @@
  </div>
  <div align="left">
   <p align="left">
-    <strong>Mobile:</strong> React Native
+    <strong>Mobile:</strong> React Native and Flutter
   </p>
   <p align="left">
     <strong>Front End:</strong> HTML, CSS, JS, SASS and ReactJS
   </p>
   <p align="left">
-    <strong>Back End:</strong> NodeJS
+    <strong>Back End:</strong> NodeJS and Golang
   </p>
   <p align="left">
     <strong>Version Control:</strong> Git, GitHub, Bitbucket
@@ -32,10 +32,18 @@
 
 ### Work Experiences
 
+[<img align="left" height="100px" width="100px" alt="Ioasys" src="https://user-images.githubusercontent.com/80720221/208682339-219c2c42-03f1-48d3-9ddf-46e17954a67c.jpg"/>](https://www.linkedin.com/company/ioasys/)
+
+[**Ioasys - Dev Mobile**](https://www.linkedin.com/company/ioasys/) \
+ jun. 2022 • the moment\
+ Occupation Area: `Mobile`, `Front End`\
+ Technologies: `React Native`, `ReactJS`\
+<br>
+
 [<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
 [**Compasso UOL - Dev Mobile I**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
- aug. 2021 • the moment\
+ aug. 2021 • jun. 2022\
  Occupation Area: `Mobile`, `Front End`\
  Technologies: `React Native`, `ReactJS`, `Node`\
 <br>
