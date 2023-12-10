@@ -36,7 +36,7 @@
 [**Stone - Software Engineer**](https://www.linkedin.com/company/stone-co/) \
  sep. 2023 • the moment\
  Occupation Area: `Mobile`, `Front End`\
- Technologies: `React Native`\
+ Technologies: `React Native`, `Kotlin`, `Swift`\
 <br>
 
 [<img align="left" height="100px" width="100px" alt="Ioasys" src="https://user-images.githubusercontent.com/80720221/208682339-219c2c42-03f1-48d3-9ddf-46e17954a67c.jpg"/>](https://www.linkedin.com/company/ioasys/)
