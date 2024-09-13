@@ -15,7 +15,7 @@
  </div>
  <div align="left">
   <p align="left">
-    <strong>Mobile:</strong> React Native, Kotlin and Swift
+    <strong>Mobile:</strong> React Native, Kotlin, Swift and Flutter
   </p>
   <p align="left">
     <strong>Front End:</strong> HTML, CSS, JS, SASS and ReactJS
