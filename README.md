@@ -33,7 +33,7 @@
 ### Work Experiences
 [<img align="left" height="100px" width="100px" alt="Stone" src="https://github.com/davidsonmarra/davidsonmarra/assets/80720221/e61e1519-a1e1-40b1-964b-aac17dd6a300"/>](https://www.linkedin.com/company/stone-co/)
 
-[**Stone - Software Engineer**](https://www.linkedin.com/company/stone-co/) \
+[**Stone - Sênior Software Engineer**](https://www.linkedin.com/company/stone-co/) \
  sep. 2023 • the moment\
  Occupation Area: `Mobile`, `Front End`\
  Technologies: `React Native`, `Kotlin`, `Swift`\
@@ -50,17 +50,9 @@
 [<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
 
 [**Compass.uol - Dev Fullstack**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
- aug. 2021 • jun. 2022\
+ may. 2021 • jun. 2022\
  Occupation Area: `Full Stack`\
  Technologies: `React Native`, `ReactJS`, `Node`\
-<br>
-
-[<img align="left" height="100px" width="100px" alt="Compsso" src="https://user-images.githubusercontent.com/80720221/154292790-4318c348-161e-41fa-8324-ae3334eb3f9e.jpg"/>](https://www.linkedin.com/company/compasso-uol/mycompany/)
-
-[**Compass.uol - Intern Front-End**](https://www.linkedin.com/company/compasso-uol/mycompany/) \
- may 2021 • aug. 2021\
- Occupation Area: `Front End`\
- Technologies: `ReactJS`, `Styled-Components`, `Redux`, `Axios`\
 <br>
 
 [<img align="left" height="100px" width="100px" alt="ContWeb" src="https://user-images.githubusercontent.com/80720221/154293055-2bfe67bc-942a-4be9-a001-8ac8849990e7.jpg"/>](https://www.linkedin.com/company/solarview/)
